@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+html {
+  background: url(http://bgfons.com/upload/wood_texture3823.jpg);
+  background-size: 100% 100%;
+}
+h1 {
+  position:relative;
+  float:right;
+  padding:20px;
+  margin:50px;
+    font-family: 'Annie Use Your Telescope', cursive;
+  text-decoration: underline;
+}
+
+p.paper, h1.paper { 
+ 
+  font-size: 24pt;
+  font-family: 'Annie Use Your Telescope', cursive;
+  display: inline-block;
+    width: 50%;
+  height: 50%;
+  margin: 0 auto;
+  padding: 6px 5px 4px 42px;
+  position: relative;
+  color: #444;
+  line-height: 25px;
+  border: 1px solid #d2d2d2;
+  background: #fff;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#d9eaf3), color-stop(4%, #fff)) 0 4px;
+  background: -webkit-linear-gradient(top, #d9eaf3 0%, #fff 8%) 0 4px;
+  background: linear-gradient(top, #d9eaf3 0%, #fff 8%) 0 4px;
+  -webkit-background-size: 100% 20px;
+    background-size: 100% 20px;
+  -webkit-border-radius: 3px;
+  
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 6px 1px;
+    box-shadow: 0 0 6px 1px;;
+  
+}
+a {
+  font-family: 'Annie Use Your Telescope', cursive;
+}
+.stickynote {
+  position: relative;
+    box-shadow: 0 0 6px 1px;
+  margin: 20px;
+  padding: 10px 25px;
+  width: 25%;
+  border: 1px solid #E8Ds47;
+  background:#fefdca;
+  font-family:'Annie Use Your Telescope';
+  font-size:1.4em;
+  }
+img {
+  max-width: 100%;
+}
+.book {
+  left-margin:20px;
+  display: inline;
+  position:relative;
+  box-shadow:0 0 6px 1px;
+}
+.lesmis {
+   margin:20px;
+  display: inline;
+  position:relative;
+  box-shadow:0 0 6px 1px;
+}
+.chelan {
+  
+  margin:20px;
+  display: inline;
+  position:relative;
+  box-shadow:0 0 6px 1px;
+}
+#nav {
+  border:1px solid transparent;
+  background: url(o) white;
+  box-shadow: 0 0 6px 1px;
+}
