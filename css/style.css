@@ -42,11 +42,12 @@ a {
   font-family: 'Annie Use Your Telescope', cursive;
 }
 .stickynote {
+  float: right;
   position: relative;
-    box-shadow: 0 0 6px 1px;
+  box-shadow: 0 0 6px 1px;
   margin: 20px;
   padding: 10px 25px;
-  width: 25%;
+  width: 60%;
   border: 1px solid #E8Ds47;
   background:#fefdca;
   font-family:'Annie Use Your Telescope';
